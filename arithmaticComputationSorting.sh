@@ -6,4 +6,5 @@ echo "The given three numbers are: $num_1 $num_2 $num_3"
 
 echo "$num_1 + $num_2 * $num_3 = $(( num_1 + num_2 * num_3 ))"
 echo "$num_1 * $num_2 + $num_3 = $(( num_1 * num_2 + num_3 ))"
+echo "$num_3 + $num_1 / $num_2 = $(( num_3 + num_1 / num_2 ))"
 
